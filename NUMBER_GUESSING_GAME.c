@@ -1,4 +1,8 @@
-//GUESS HIDDEN NUMBER BETWEEN 1 TO 40
+/*GUESS HIDDEN NUMBER BETWEEN 1 TO 40 
+If you enter grater number than actual number ouput lower number please
+If you enter lower number than actual number ouput higher number please
+If you enter actual number then show the number*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -31,4 +35,5 @@ int main() {
   printf("You guess the number in %d attempt\n",count);
   
     return 0;
+
 }
