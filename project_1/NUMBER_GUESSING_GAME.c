@@ -3,6 +3,7 @@
 If you enter grater number than actual number ouput lower number please
 If you enter lower number than actual number ouput higher number please
 If you enter actual number then show the number*/
+//using Loop and random number generation 
 
 #include <stdio.h>
 #include <stdlib.h>
