@@ -1,3 +1,12 @@
-This project is developed using the C programming language 💻 as part of my learning journey in Computer Science 🎓. It focuses on building strong fundamentals in programming, logical thinking 🧠, and structured problem-solving.
+# Number Guessing Game 🎯
 
-The project demonstrates practical implementation of core concepts such as functions ⚙️, loops 🔁, arrays 📊, and basic data structures 🗂️.
+## Game Rules
+- Guess the hidden number between **1 to 40**.
+- If you enter a number **greater** than the actual number → output will be **"Lower number please"**.
+- If you enter a number **lower** than the actual number → output will be **"Higher number please"**.
+- If you enter the **actual number** → the game will show the number and congratulate you.
+
+## Implementation Details
+- Built using **C language**.
+- Uses **loop** for repeated guessing.
+- Uses **random number generation** to pick the hidden number.
