@@ -8,7 +8,7 @@ int main() {
  srand(time(0));   
       r = (rand() % 40) + 1;   // 1 to 40
  while(1){
-   printf("Enter a number:");
+   printf("Guess the number (1-40):");
    count=count+1;
     scanf("%d", &n);
     if (n == r)
@@ -33,4 +33,5 @@ int main() {
     return 0;
 
 }
+
 
