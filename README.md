@@ -11,3 +11,10 @@
 - If you enter a number **lower** than the actual number → output will be **"Higher number please"**.
 - If you enter the **actual number** → the game will show the 'X' number of attempt you will guess the number
 
+## Example Gameplay
+Guess the number (1-40): 25
+Lower number please
+Guess again: 10
+Higher number please
+Guess again: 15
+Correct! The number was 15 (Attempts: 3)
