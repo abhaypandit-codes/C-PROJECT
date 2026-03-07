@@ -13,8 +13,13 @@
 
 ## Example Gameplay
 Guess the number (1-40): 25
+
 Lower number please
-Guess again: 10
+
+Guess the number: 10
+
 Higher number please
-Guess again: 15
-Correct! The number was 15 (Attempts: 3)
+
+Guess the number: 15
+
+You guess the number in 3 attempt
