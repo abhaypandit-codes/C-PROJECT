@@ -16,10 +16,10 @@ Guess the number (1-40): 25
 
 Lower number please
 
-Guess the number: 10
+Guess the number (1-40): 10
 
 Higher number please
 
-Guess the number: 15
+Guess the number (1-40): 15
 
 You guess the number in 3 attempt
