@@ -22,4 +22,4 @@ Higher number please
 
 Guess the number (1-40): 15
 
-You guess the number in 3 attempt
+You guess the number 15 in 3 attempt
