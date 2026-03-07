@@ -28,10 +28,11 @@ int main() {
       }
     }
   }
-  printf("You guess the number in %d attempt\n",count);
+  printf("You guess the number %d in %d attempt\n",n,count);
   
     return 0;
 
 }
+
 
 
